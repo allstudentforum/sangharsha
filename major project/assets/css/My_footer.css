@@ -1,0 +1,9 @@
+.my_footer{
+	display: inline-block;
+	border: solid #ffffff 1px;
+	margin: 0 auto;
+	width: 7%;
+	padding-left: 15px;
+	background: #ffffff;
+
+}
